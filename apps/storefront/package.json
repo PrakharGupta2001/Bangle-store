@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "build:demo": "npm --prefix ../.. run build:demo",
     "dev": "node ../../scripts/run-storefront.mjs dev --hostname 127.0.0.1",
     "build": "node ../../scripts/run-storefront.mjs build --webpack",
     "typegen": "node ../../scripts/run-storefront.mjs typegen"
