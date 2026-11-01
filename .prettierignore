@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.npm-cache
+.browser-cache
+.tools
+artifacts
+test-results
+playwright-report
+package-lock.json
+apps/storefront/public/images
+
+data/local/
+apps/admin/.build/
+apps/storefront/generated/
+packages/catalogue/generated/
+apps/storefront/public/catalogue-images/

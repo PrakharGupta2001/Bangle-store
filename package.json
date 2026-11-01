@@ -1,0 +1,44 @@
+{
+  "name": "daya-variety-store",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Phase 3 local admin and multilingual static storefront",
+  "engines": {
+    "node": ">=24 <25",
+    "npm": ">=10"
+  },
+  "workspaces": [
+    "apps/storefront",
+    "packages/catalogue",
+    "apps/admin"
+  ],
+  "scripts": {
+    "postinstall": "node scripts/init-demo.mjs",
+    "dev": "npm run prepare:storefront && npm run dev --workspace @daya/storefront",
+    "check": "npm run prepare:storefront && npm run typegen --workspace @daya/storefront && tsc --noEmit -p apps/storefront/tsconfig.json && tsc --noEmit -p apps/admin/tsconfig.json && node --import tsx --test tests/catalogue.test.ts tests/phase2.test.ts tests/admin.test.ts && node --test tests/init.test.mjs",
+    "build:demo": "npm run prepare:storefront && npm run build --workspace @daya/storefront && node --import tsx scripts/verify-export.mjs",
+    "preview": "node scripts/preview.mjs",
+    "package:source": "node scripts/package-source.mjs",
+    "test:browser": "playwright test",
+    "format": "prettier --write .",
+    "admin": "node scripts/init-demo.mjs && node --import tsx apps/admin/src/server.ts",
+    "admin:access": "node --import tsx scripts/admin-cli.mts access",
+    "catalogue:export": "node scripts/init-demo.mjs && node --import tsx scripts/admin-cli.mts export",
+    "catalogue:backup": "node --import tsx scripts/admin-cli.mts backup",
+    "catalogue:restore": "node --import tsx scripts/admin-cli.mts restore",
+    "prepare:storefront": "node scripts/init-demo.mjs && node --import tsx scripts/admin-cli.mts prepare",
+    "test:admin": "node --import tsx --test tests/admin.test.ts tests/admin-http.test.ts",
+    "test:admin:browser": "playwright test --config playwright.admin.config.ts"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.14.0",
+    "@playwright/test": "1.64.1",
+    "@types/node": "^24.0.0",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "fflate": "0.8.3",
+    "prettier": "3.6.2",
+    "tsx": "4.23.15",
+    "typescript": "5.9.3"
+  }
+}

@@ -1,0 +1,1811 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "bangles",
+      "slug": "bangles",
+      "content": {
+        "en": {
+          "name": "Bangles",
+          "description": "Colour, texture and a little everyday sparkle. Explore our sample bangle collection."
+        },
+        "hi": {
+          "name": "चूड़ियाँ",
+          "description": "रंग, बनावट और रोज़मर्रा की थोड़ी चमक। चूड़ियों का नमूना कलेक्शन देखें।"
+        },
+        "gu": {
+          "name": "બંગડીઓ",
+          "description": "રંગ, રચના અને રોજિંદી થોડી ચમક. બંગડીઓનું નમૂના કલેક્શન જુઓ."
+        }
+      },
+      "image": "/images/bangles-01.svg"
+    },
+    {
+      "id": "earrings",
+      "slug": "earrings",
+      "content": {
+        "en": {
+          "name": "Earrings",
+          "description": "Small finishing touches, from simple studs to statement shapes."
+        },
+        "hi": {
+          "name": "बालियाँ",
+          "description": "सादे टॉप्स से लेकर खास आकार तक, साज-सिंगार की छोटी पसंद।"
+        },
+        "gu": {
+          "name": "બુટ્ટીઓ",
+          "description": "સાદા ટોપ્સથી લઈને ખાસ આકાર સુધી, શણગારની નાની પસંદગીઓ."
+        }
+      },
+      "image": "/images/earrings-01.svg"
+    },
+    {
+      "id": "mangalsutras",
+      "slug": "mangalsutras",
+      "content": {
+        "en": {
+          "name": "Mangalsutras",
+          "description": "Explore illustrative pendant and black-bead designs."
+        },
+        "hi": {
+          "name": "मंगलसूत्र",
+          "description": "पेंडेंट और काले मनकों वाले मंगलसूत्रों के नमूना डिज़ाइन देखें।"
+        },
+        "gu": {
+          "name": "મંગળસૂત્રો",
+          "description": "પેન્ડન્ટ અને કાળા મણકાવાળા મંગળસૂત્રોની નમૂના ડિઝાઇન જુઓ."
+        }
+      },
+      "image": "/images/mangalsutras-01.svg"
+    },
+    {
+      "id": "hair-accessories",
+      "slug": "hair-accessories",
+      "content": {
+        "en": {
+          "name": "Hair accessories",
+          "description": "Clips and bands to bring a little colour to your routine."
+        },
+        "hi": {
+          "name": "बालों की एक्सेसरीज़",
+          "description": "रोज़मर्रा में थोड़ा रंग जोड़ने के लिए क्लिप और हेयर बैंड।"
+        },
+        "gu": {
+          "name": "વાળની એક્સેસરીઝ",
+          "description": "રોજિંદા જીવનમાં થોડો રંગ ઉમેરવા માટે ક્લિપ અને હેર બૅન્ડ."
+        }
+      },
+      "image": "/images/hair-accessories-01.svg"
+    }
+  ],
+  "products": [
+    {
+      "id": "bangles-01",
+      "slug": "gulabi-bangle-set",
+      "categoryId": "bangles",
+      "sku": "DVS-B001",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Gulabi bangle set",
+          "description": "An illustrative gulabi bangle set design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "गुलाबी चूड़ी सेट",
+          "description": "गुलाबी चूड़ी सेट का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "ગુલાબી બંગડી સેટ",
+          "description": "ગુલાબી બંગડી સેટનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 18000,
+      "images": [
+        {
+          "src": "/images/bangles-01.svg",
+          "alt": {
+            "en": "Sample illustration of gulabi bangle set",
+            "hi": "नमूना चित्र: गुलाबी चूड़ी सेट",
+            "gu": "નમૂનાનું ચિત્ર: ગુલાબી બંગડી સેટ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "bangles-02",
+      "slug": "champagne-shimmer-bangles",
+      "categoryId": "bangles",
+      "sku": "DVS-B002",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Champagne shimmer bangles",
+          "description": "An illustrative champagne shimmer bangles design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "शैम्पेन चमक वाली चूड़ियाँ",
+          "description": "शैम्पेन चमक वाली चूड़ियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "શેમ્પેન ચમકવાળી બંગડીઓ",
+          "description": "શેમ્પેન ચમકવાળી બંગડીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 21500,
+      "images": [
+        {
+          "src": "/images/bangles-02.svg",
+          "alt": {
+            "en": "Sample illustration of champagne shimmer bangles",
+            "hi": "नमूना चित्र: शैम्पेन चमक वाली चूड़ियाँ",
+            "gu": "નમૂનાનું ચિત્ર: શેમ્પેન ચમકવાળી બંગડીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "bangles-03",
+      "slug": "emerald-accent-bangles",
+      "categoryId": "bangles",
+      "sku": "DVS-B003",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Emerald accent bangles",
+          "description": "An illustrative emerald accent bangles design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "पन्ना रंग की चूड़ियाँ",
+          "description": "पन्ना रंग की चूड़ियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "પન્ના રંગની બંગડીઓ",
+          "description": "પન્ના રંગની બંગડીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 25000,
+      "images": [
+        {
+          "src": "/images/bangles-03.svg",
+          "alt": {
+            "en": "Sample illustration of emerald accent bangles",
+            "hi": "नमूना चित्र: पन्ना रंग की चूड़ियाँ",
+            "gu": "નમૂનાનું ચિત્ર: પન્ના રંગની બંગડીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "bangles-04",
+      "slug": "classic-ruby-bangles",
+      "categoryId": "bangles",
+      "sku": "DVS-B004",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Classic ruby bangles",
+          "description": "An illustrative classic ruby bangles design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "रूबी लाल चूड़ियाँ",
+          "description": "रूबी लाल चूड़ियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "રૂબી લાલ બંગડીઓ",
+          "description": "રૂબી લાલ બંગડીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": null,
+      "images": [
+        {
+          "src": "/images/bangles-04.svg",
+          "alt": {
+            "en": "Sample illustration of classic ruby bangles",
+            "hi": "नमूना चित्र: रूबी लाल चूड़ियाँ",
+            "gu": "નમૂનાનું ચિત્ર: રૂબી લાલ બંગડીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "bangles-05",
+      "slug": "ivory-dot-bangles",
+      "categoryId": "bangles",
+      "sku": "DVS-B005",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Ivory dot bangles",
+          "description": "An illustrative ivory dot bangles design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "आइवरी बिंदियों वाली चूड़ियाँ",
+          "description": "आइवरी बिंदियों वाली चूड़ियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "આઇવરી ટપકાંવાળી બંગડીઓ",
+          "description": "આઇવરી ટપકાંવાળી બંગડીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 32000,
+      "images": [
+        {
+          "src": "/images/bangles-05.svg",
+          "alt": {
+            "en": "Sample illustration of ivory dot bangles",
+            "hi": "नमूना चित्र: आइवरी बिंदियों वाली चूड़ियाँ",
+            "gu": "નમૂનાનું ચિત્ર: આઇવરી ટપકાંવાળી બંગડીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "bangles-06",
+      "slug": "midnight-blue-bangles",
+      "categoryId": "bangles",
+      "sku": "DVS-B006",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Midnight blue bangles",
+          "description": "An illustrative midnight blue bangles design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "गहरी नीली चूड़ियाँ",
+          "description": "गहरी नीली चूड़ियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "ઘેરી વાદળી બંગડીઓ",
+          "description": "ઘેરી વાદળી બંગડીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 35500,
+      "images": [
+        {
+          "src": "/images/bangles-06.svg",
+          "alt": {
+            "en": "Sample illustration of midnight blue bangles",
+            "hi": "नमूना चित्र: गहरी नीली चूड़ियाँ",
+            "gu": "નમૂનાનું ચિત્ર: ઘેરી વાદળી બંગડીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "bangles-07",
+      "slug": "marigold-bangle-set",
+      "categoryId": "bangles",
+      "sku": "DVS-B007",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Marigold bangle set",
+          "description": "An illustrative marigold bangle set design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "गेंदे के रंग का चूड़ी सेट",
+          "description": "गेंदे के रंग का चूड़ी सेट का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "ગલગોટા રંગનો બંગડી સેટ",
+          "description": "ગલગોટા રંગનો બંગડી સેટનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 39000,
+      "images": [
+        {
+          "src": "/images/bangles-07.svg",
+          "alt": {
+            "en": "Sample illustration of marigold bangle set",
+            "hi": "नमूना चित्र: गेंदे के रंग का चूड़ी सेट",
+            "gu": "નમૂનાનું ચિત્ર: ગલગોટા રંગનો બંગડી સેટ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "bangles-08",
+      "slug": "rose-detail-bangles",
+      "categoryId": "bangles",
+      "sku": "DVS-B008",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Rose detail bangles",
+          "description": "An illustrative rose detail bangles design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "गुलाब की सजावट वाली चूड़ियाँ",
+          "description": "गुलाब की सजावट वाली चूड़ियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "ગુલાબની સજાવટવાળી બંગડીઓ",
+          "description": "ગુલાબની સજાવટવાળી બંગડીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": null,
+      "images": [
+        {
+          "src": "/images/bangles-08.svg",
+          "alt": {
+            "en": "Sample illustration of rose detail bangles",
+            "hi": "नमूना चित्र: गुलाब की सजावट वाली चूड़ियाँ",
+            "gu": "નમૂનાનું ચિત્ર: ગુલાબની સજાવટવાળી બંગડીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "bangles-09",
+      "slug": "lilac-glow-bangles",
+      "categoryId": "bangles",
+      "sku": "DVS-B009",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Lilac glow bangles",
+          "description": "An illustrative lilac glow bangles design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "हल्की बैंगनी चूड़ियाँ",
+          "description": "हल्की बैंगनी चूड़ियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "આછા જાંબલી રંગની બંગડીઓ",
+          "description": "આછા જાંબલી રંગની બંગડીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 46000,
+      "images": [
+        {
+          "src": "/images/bangles-09.svg",
+          "alt": {
+            "en": "Sample illustration of lilac glow bangles",
+            "hi": "नमूना चित्र: हल्की बैंगनी चूड़ियाँ",
+            "gu": "નમૂનાનું ચિત્ર: આછા જાંબલી રંગની બંગડીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "bangles-10",
+      "slug": "teal-accent-bangles",
+      "categoryId": "bangles",
+      "sku": "DVS-B010",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Teal accent bangles",
+          "description": "An illustrative teal accent bangles design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "नील-हरे रंग की चूड़ियाँ",
+          "description": "नील-हरे रंग की चूड़ियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "નીલા-લીલા રંગની બંગડીઓ",
+          "description": "નીલા-લીલા રંગની બંગડીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 49500,
+      "images": [
+        {
+          "src": "/images/bangles-10.svg",
+          "alt": {
+            "en": "Sample illustration of teal accent bangles",
+            "hi": "नमूना चित्र: नील-हरे रंग की चूड़ियाँ",
+            "gu": "નમૂનાનું ચિત્ર: નીલા-લીલા રંગની બંગડીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "bangles-11",
+      "slug": "everyday-gold-tone-bangles",
+      "categoryId": "bangles",
+      "sku": "DVS-B011",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Everyday gold-tone bangles",
+          "description": "An illustrative everyday gold-tone bangles design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "रोज़मर्रा की सुनहरे रंग की चूड़ियाँ",
+          "description": "रोज़मर्रा की सुनहरे रंग की चूड़ियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "રોજિંદી સોનેરી રંગની બંગડીઓ",
+          "description": "રોજિંદી સોનેરી રંગની બંગડીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 53000,
+      "images": [
+        {
+          "src": "/images/bangles-11.svg",
+          "alt": {
+            "en": "Sample illustration of everyday gold-tone bangles",
+            "hi": "नमूना चित्र: रोज़मर्रा की सुनहरे रंग की चूड़ियाँ",
+            "gu": "નમૂનાનું ચિત્ર: રોજિંદી સોનેરી રંગની બંગડીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "bangles-12",
+      "slug": "festive-colour-stack",
+      "categoryId": "bangles",
+      "sku": "DVS-B012",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Festive colour stack",
+          "description": "An illustrative festive colour stack design for browsing this demo collection. Set of 6 bangles. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "रंग-बिरंगा उत्सवी चूड़ी सेट",
+          "description": "रंग-बिरंगा उत्सवी चूड़ी सेट का यह चित्र केवल नमूना कलेक्शन के लिए है। 6 चूड़ियों का सेट। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "રંગબેરંગી ઉત્સવી બંગડી સેટ",
+          "description": "રંગબેરંગી ઉત્સવી બંગડી સેટનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 6 બંગડીઓનો સેટ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": null,
+      "images": [
+        {
+          "src": "/images/bangles-12.svg",
+          "alt": {
+            "en": "Sample illustration of festive colour stack",
+            "hi": "नमूना चित्र: रंग-बिरंगा उत्सवी चूड़ी सेट",
+            "gu": "નમૂનાનું ચિત્ર: રંગબેરંગી ઉત્સવી બંગડી સેટ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "size-2-4",
+          "content": {
+            "en": {
+              "label": "Size 2-4 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-4 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-4 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-4",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-6",
+          "content": {
+            "en": {
+              "label": "Size 2-6 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-6 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-6 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-6",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        },
+        {
+          "id": "size-2-8",
+          "content": {
+            "en": {
+              "label": "Size 2-8 · Set of 6 bangles"
+            },
+            "hi": {
+              "label": "साइज़ 2-8 · 6 चूड़ियों का सेट"
+            },
+            "gu": {
+              "label": "માપ 2-8 · 6 બંગડીઓનો સેટ"
+            }
+          },
+          "size": "2-8",
+          "quantity": "Set of 6 bangles",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "earrings-01",
+      "slug": "petal-drop-earrings",
+      "categoryId": "earrings",
+      "sku": "DVS-E001",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Petal drop earrings",
+          "description": "An illustrative petal drop earrings design for browsing this demo collection. Pair of earrings. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "पंखुड़ी आकार की लटकन बालियाँ",
+          "description": "पंखुड़ी आकार की लटकन बालियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। बालियों की जोड़ी। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "પાંખડી આકારની લટકતી બુટ્ટીઓ",
+          "description": "પાંખડી આકારની લટકતી બુટ્ટીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. બુટ્ટીઓની જોડી. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 12000,
+      "images": [
+        {
+          "src": "/images/earrings-01.svg",
+          "alt": {
+            "en": "Sample illustration of petal drop earrings",
+            "hi": "नमूना चित्र: पंखुड़ी आकार की लटकन बालियाँ",
+            "gu": "નમૂનાનું ચિત્ર: પાંખડી આકારની લટકતી બુટ્ટીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "Pair of earrings"
+            },
+            "hi": {
+              "label": "बालियों की जोड़ी"
+            },
+            "gu": {
+              "label": "બુટ્ટીઓની જોડી"
+            }
+          },
+          "size": null,
+          "quantity": "Pair of earrings",
+          "stock": null
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "earrings-02",
+      "slug": "everyday-round-studs",
+      "categoryId": "earrings",
+      "sku": "DVS-E002",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Everyday round studs",
+          "description": "An illustrative everyday round studs design for browsing this demo collection. Pair of earrings. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "रोज़मर्रा के गोल टॉप्स",
+          "description": "रोज़मर्रा के गोल टॉप्स का यह चित्र केवल नमूना कलेक्शन के लिए है। बालियों की जोड़ी। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "રોજિંદા ગોળ ટોપ્સ",
+          "description": "રોજિંદા ગોળ ટોપ્સનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. બુટ્ટીઓની જોડી. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 15500,
+      "images": [
+        {
+          "src": "/images/earrings-02.svg",
+          "alt": {
+            "en": "Sample illustration of everyday round studs",
+            "hi": "नमूना चित्र: रोज़मर्रा के गोल टॉप्स",
+            "gu": "નમૂનાનું ચિત્ર: રોજિંદા ગોળ ટોપ્સ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "Pair of earrings"
+            },
+            "hi": {
+              "label": "बालियों की जोड़ी"
+            },
+            "gu": {
+              "label": "બુટ્ટીઓની જોડી"
+            }
+          },
+          "size": null,
+          "quantity": "Pair of earrings",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "earrings-03",
+      "slug": "chand-shape-earrings",
+      "categoryId": "earrings",
+      "sku": "DVS-E003",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Chand shape earrings",
+          "description": "An illustrative chand shape earrings design for browsing this demo collection. Pair of earrings. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "चाँद आकार की बालियाँ",
+          "description": "चाँद आकार की बालियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। बालियों की जोड़ी। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "ચાંદ આકારની બુટ્ટીઓ",
+          "description": "ચાંદ આકારની બુટ્ટીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. બુટ્ટીઓની જોડી. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 19000,
+      "images": [
+        {
+          "src": "/images/earrings-03.svg",
+          "alt": {
+            "en": "Sample illustration of chand shape earrings",
+            "hi": "नमूना चित्र: चाँद आकार की बालियाँ",
+            "gu": "નમૂનાનું ચિત્ર: ચાંદ આકારની બુટ્ટીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "Pair of earrings"
+            },
+            "hi": {
+              "label": "बालियों की जोड़ी"
+            },
+            "gu": {
+              "label": "બુટ્ટીઓની જોડી"
+            }
+          },
+          "size": null,
+          "quantity": "Pair of earrings",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "earrings-04",
+      "slug": "pearl-style-drop-earrings",
+      "categoryId": "earrings",
+      "sku": "DVS-E004",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Pearl-style drop earrings",
+          "description": "An illustrative pearl-style drop earrings design for browsing this demo collection. Pair of earrings. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "मोती जैसे दानों वाली बालियाँ",
+          "description": "मोती जैसे दानों वाली बालियाँ का यह चित्र केवल नमूना कलेक्शन के लिए है। बालियों की जोड़ी। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "મોતી જેવા મણકાવાળી બુટ્ટીઓ",
+          "description": "મોતી જેવા મણકાવાળી બુટ્ટીઓનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. બુટ્ટીઓની જોડી. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": null,
+      "images": [
+        {
+          "src": "/images/earrings-04.svg",
+          "alt": {
+            "en": "Sample illustration of pearl-style drop earrings",
+            "hi": "नमूना चित्र: मोती जैसे दानों वाली बालियाँ",
+            "gu": "નમૂનાનું ચિત્ર: મોતી જેવા મણકાવાળી બુટ્ટીઓ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "Pair of earrings"
+            },
+            "hi": {
+              "label": "बालियों की जोड़ी"
+            },
+            "gu": {
+              "label": "બુટ્ટીઓની જોડી"
+            }
+          },
+          "size": null,
+          "quantity": "Pair of earrings",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "mangalsutras-01",
+      "slug": "petal-pendant-mangalsutra",
+      "categoryId": "mangalsutras",
+      "sku": "DVS-M001",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Petal pendant mangalsutra",
+          "description": "An illustrative petal pendant mangalsutra design for browsing this demo collection. 1 piece. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "पंखुड़ी पेंडेंट वाला मंगलसूत्र",
+          "description": "पंखुड़ी पेंडेंट वाला मंगलसूत्र का यह चित्र केवल नमूना कलेक्शन के लिए है। 1 नग। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "પાંખડી પેન્ડન્ટવાળું મંગળસૂત્ર",
+          "description": "પાંખડી પેન્ડન્ટવાળું મંગળસૂત્રનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 1 નંગ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 25000,
+      "images": [
+        {
+          "src": "/images/mangalsutras-01.svg",
+          "alt": {
+            "en": "Sample illustration of petal pendant mangalsutra",
+            "hi": "नमूना चित्र: पंखुड़ी पेंडेंट वाला मंगलसूत्र",
+            "gu": "નમૂનાનું ચિત્ર: પાંખડી પેન્ડન્ટવાળું મંગળસૂત્ર"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "1 piece"
+            },
+            "hi": {
+              "label": "1 नग"
+            },
+            "gu": {
+              "label": "1 નંગ"
+            }
+          },
+          "size": null,
+          "quantity": "1 piece",
+          "stock": null
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "mangalsutras-02",
+      "slug": "double-bead-mangalsutra",
+      "categoryId": "mangalsutras",
+      "sku": "DVS-M002",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Double-bead mangalsutra",
+          "description": "An illustrative double-bead mangalsutra design for browsing this demo collection. 1 piece. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "दोहरी मनका लड़ी वाला मंगलसूत्र",
+          "description": "दोहरी मनका लड़ी वाला मंगलसूत्र का यह चित्र केवल नमूना कलेक्शन के लिए है। 1 नग। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "બેવડી મણકાની સેરવાળું મંગળસૂત્ર",
+          "description": "બેવડી મણકાની સેરવાળું મંગળસૂત્રનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 1 નંગ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 28500,
+      "images": [
+        {
+          "src": "/images/mangalsutras-02.svg",
+          "alt": {
+            "en": "Sample illustration of double-bead mangalsutra",
+            "hi": "नमूना चित्र: दोहरी मनका लड़ी वाला मंगलसूत्र",
+            "gu": "નમૂનાનું ચિત્ર: બેવડી મણકાની સેરવાળું મંગળસૂત્ર"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "1 piece"
+            },
+            "hi": {
+              "label": "1 नग"
+            },
+            "gu": {
+              "label": "1 નંગ"
+            }
+          },
+          "size": null,
+          "quantity": "1 piece",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "mangalsutras-03",
+      "slug": "oval-pendant-mangalsutra",
+      "categoryId": "mangalsutras",
+      "sku": "DVS-M003",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Oval pendant mangalsutra",
+          "description": "An illustrative oval pendant mangalsutra design for browsing this demo collection. 1 piece. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "अंडाकार पेंडेंट वाला मंगलसूत्र",
+          "description": "अंडाकार पेंडेंट वाला मंगलसूत्र का यह चित्र केवल नमूना कलेक्शन के लिए है। 1 नग। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "અંડાકાર પેન્ડન્ટવાળું મંગળસૂત્ર",
+          "description": "અંડાકાર પેન્ડન્ટવાળું મંગળસૂત્રનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 1 નંગ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 32000,
+      "images": [
+        {
+          "src": "/images/mangalsutras-03.svg",
+          "alt": {
+            "en": "Sample illustration of oval pendant mangalsutra",
+            "hi": "नमूना चित्र: अंडाकार पेंडेंट वाला मंगलसूत्र",
+            "gu": "નમૂનાનું ચિત્ર: અંડાકાર પેન્ડન્ટવાળું મંગળસૂત્ર"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "1 piece"
+            },
+            "hi": {
+              "label": "1 नग"
+            },
+            "gu": {
+              "label": "1 નંગ"
+            }
+          },
+          "size": null,
+          "quantity": "1 piece",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "mangalsutras-04",
+      "slug": "simple-arc-mangalsutra",
+      "categoryId": "mangalsutras",
+      "sku": "DVS-M004",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Simple arc mangalsutra",
+          "description": "An illustrative simple arc mangalsutra design for browsing this demo collection. 1 piece. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "सादा घुमावदार मंगलसूत्र",
+          "description": "सादा घुमावदार मंगलसूत्र का यह चित्र केवल नमूना कलेक्शन के लिए है। 1 नग। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "સાદું વળાંકવાળું મંગળસૂત્ર",
+          "description": "સાદું વળાંકવાળું મંગળસૂત્રનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 1 નંગ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": null,
+      "images": [
+        {
+          "src": "/images/mangalsutras-04.svg",
+          "alt": {
+            "en": "Sample illustration of simple arc mangalsutra",
+            "hi": "नमूना चित्र: सादा घुमावदार मंगलसूत्र",
+            "gu": "નમૂનાનું ચિત્ર: સાદું વળાંકવાળું મંગળસૂત્ર"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "1 piece"
+            },
+            "hi": {
+              "label": "1 नग"
+            },
+            "gu": {
+              "label": "1 નંગ"
+            }
+          },
+          "size": null,
+          "quantity": "1 piece",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "hair-accessories-01",
+      "slug": "blush-claw-clip",
+      "categoryId": "hair-accessories",
+      "sku": "DVS-H001",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Blush claw clip",
+          "description": "An illustrative blush claw clip design for browsing this demo collection. 1 piece. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "हल्के गुलाबी रंग की क्लॉ क्लिप",
+          "description": "हल्के गुलाबी रंग की क्लॉ क्लिप का यह चित्र केवल नमूना कलेक्शन के लिए है। 1 नग। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "આછા ગુલાબી રંગની ક્લો ક્લિપ",
+          "description": "આછા ગુલાબી રંગની ક્લો ક્લિપનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 1 નંગ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 6000,
+      "images": [
+        {
+          "src": "/images/hair-accessories-01.svg",
+          "alt": {
+            "en": "Sample illustration of blush claw clip",
+            "hi": "नमूना चित्र: हल्के गुलाबी रंग की क्लॉ क्लिप",
+            "gu": "નમૂનાનું ચિત્ર: આછા ગુલાબી રંગની ક્લો ક્લિપ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "1 piece"
+            },
+            "hi": {
+              "label": "1 नग"
+            },
+            "gu": {
+              "label": "1 નંગ"
+            }
+          },
+          "size": null,
+          "quantity": "1 piece",
+          "stock": null
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "hair-accessories-02",
+      "slug": "classic-bow-clip",
+      "categoryId": "hair-accessories",
+      "sku": "DVS-H002",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Classic bow clip",
+          "description": "An illustrative classic bow clip design for browsing this demo collection. 1 piece. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "क्लासिक बो क्लिप",
+          "description": "क्लासिक बो क्लिप का यह चित्र केवल नमूना कलेक्शन के लिए है। 1 नग। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "ક્લાસિક બો ક્લિપ",
+          "description": "ક્લાસિક બો ક્લિપનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 1 નંગ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 9500,
+      "images": [
+        {
+          "src": "/images/hair-accessories-02.svg",
+          "alt": {
+            "en": "Sample illustration of classic bow clip",
+            "hi": "नमूना चित्र: क्लासिक बो क्लिप",
+            "gu": "નમૂનાનું ચિત્ર: ક્લાસિક બો ક્લિપ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "1 piece"
+            },
+            "hi": {
+              "label": "1 नग"
+            },
+            "gu": {
+              "label": "1 નંગ"
+            }
+          },
+          "size": null,
+          "quantity": "1 piece",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "hair-accessories-03",
+      "slug": "satin-style-hair-band",
+      "categoryId": "hair-accessories",
+      "sku": "DVS-H003",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Satin-style hair band",
+          "description": "An illustrative satin-style hair band design for browsing this demo collection. 1 piece. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "सैटिन जैसी हेयर बैंड",
+          "description": "सैटिन जैसी हेयर बैंड का यह चित्र केवल नमूना कलेक्शन के लिए है। 1 नग। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "સેટિન જેવી હેર બૅન્ડ",
+          "description": "સેટિન જેવી હેર બૅન્ડનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. 1 નંગ. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": 13000,
+      "images": [
+        {
+          "src": "/images/hair-accessories-03.svg",
+          "alt": {
+            "en": "Sample illustration of satin-style hair band",
+            "hi": "नमूना चित्र: सैटिन जैसी हेयर बैंड",
+            "gu": "નમૂનાનું ચિત્ર: સેટિન જેવી હેર બૅન્ડ"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "1 piece"
+            },
+            "hi": {
+              "label": "1 नग"
+            },
+            "gu": {
+              "label": "1 નંગ"
+            }
+          },
+          "size": null,
+          "quantity": "1 piece",
+          "stock": null
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "hair-accessories-04",
+      "slug": "everyday-scrunchie-pair",
+      "categoryId": "hair-accessories",
+      "sku": "DVS-H004",
+      "isDemo": true,
+      "publicationStatus": "published",
+      "availability": "confirm_on_enquiry",
+      "reviewStatus": "needs_identification",
+      "content": {
+        "en": {
+          "name": "Everyday scrunchie pair",
+          "description": "An illustrative everyday scrunchie pair design for browsing this demo collection. Pair of scrunchies. Colours, materials, measurements and actual stock need confirmation with the shop."
+        },
+        "hi": {
+          "name": "रोज़मर्रा की स्क्रंची जोड़ी",
+          "description": "रोज़मर्रा की स्क्रंची जोड़ी का यह चित्र केवल नमूना कलेक्शन के लिए है। स्क्रंची की जोड़ी। रंग, सामग्री, माप और वास्तविक स्टॉक की दुकान से पुष्टि करें।"
+        },
+        "gu": {
+          "name": "રોજિંદી સ્ક્રન્ચીની જોડી",
+          "description": "રોજિંદી સ્ક્રન્ચીની જોડીનું આ ચિત્ર માત્ર નમૂના કલેક્શન માટે છે. સ્ક્રન્ચીની જોડી. રંગ, સામગ્રી, માપ અને વાસ્તવિક સ્ટૉકની દુકાન પાસેથી ખાતરી કરો."
+        }
+      },
+      "pricePaise": null,
+      "images": [
+        {
+          "src": "/images/hair-accessories-04.svg",
+          "alt": {
+            "en": "Sample illustration of everyday scrunchie pair",
+            "hi": "नमूना चित्र: रोज़मर्रा की स्क्रंची जोड़ी",
+            "gu": "નમૂનાનું ચિત્ર: રોજિંદી સ્ક્રન્ચીની જોડી"
+          }
+        }
+      ],
+      "variants": [
+        {
+          "id": "standard",
+          "content": {
+            "en": {
+              "label": "Pair of scrunchies"
+            },
+            "hi": {
+              "label": "स्क्रंची की जोड़ी"
+            },
+            "gu": {
+              "label": "સ્ક્રન્ચીની જોડી"
+            }
+          },
+          "size": null,
+          "quantity": "Pair of scrunchies",
+          "stock": null
+        }
+      ],
+      "featured": false
+    }
+  ]
+}

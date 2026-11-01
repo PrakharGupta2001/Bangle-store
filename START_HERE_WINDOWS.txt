@@ -1,0 +1,87 @@
+DAYA VARIETY STORE — WINDOWS 11 POWERSHELL START GUIDE
+Prepared 31 October 2026
+
+This complete transfer contains application source, lockfile, bundled fixtures,
+documentation, photo provenance, and transfer/catalogue-backup.zip containing
+all saved catalogue data and all registered photos/covers. The snapshot has
+115 saved records (91 published photo products, 24 archived samples), with
+159 image assets. Private catalogue notes are included; keep this ZIP private.
+Passwords/access codes, dependencies, caches, Git history, logs and old backups
+are excluded. A new admin access code is generated on the new computer.
+The current site uses local JSON storage. MySQL and Docker are not required.
+
+PREREQUISITE
+Install Node.js 24.x LTS for Windows, including npm, then reopen PowerShell.
+Use Node 24.x: this project does not currently support Node 25/26 or later.
+An internet connection is needed for npm.cmd ci. Do not copy Mac node_modules.
+The .cmd suffix avoids the npm.ps1 execution-policy issue; no policy change is
+needed. Windows execution has not been tested on this Mac.
+
+FIRST SETUP — RUN EACH COMMAND IN ORDER
+If any command reports an error, stop and resolve it before the next command.
+Put daya-variety-store-complete-2026-10-31.zip in your Downloads folder.
+Use a fresh destination folder; do not extract over an existing project.
+
+node --version
+npm.cmd --version
+Expand-Archive -LiteralPath "$env:USERPROFILE\Downloads\daya-variety-store-complete-2026-10-31.zip" -DestinationPath "$env:USERPROFILE\DayaStore"
+Set-Location "$env:USERPROFILE\DayaStore\daya-variety-store"
+npm.cmd ci
+npm.cmd run catalogue:restore -- transfer/catalogue-backup.zip
+npm.cmd run catalogue:export
+npm.cmd run check
+npm.cmd run build:demo
+npm.cmd run preview
+
+Keep this PowerShell window running for the customer website.
+English: http://127.0.0.1:4173/en/
+Hindi: http://127.0.0.1:4173/hi/
+Gujarati: http://127.0.0.1:4173/gu/
+The restored catalogue should show 91 photo products in the collection.
+
+ADMIN — SECOND POWERSHELL WINDOW
+Set-Location "$env:USERPROFILE\DayaStore\daya-variety-store"
+npm.cmd run admin
+
+Wait for the local-admin startup message, then open http://127.0.0.1:4310/.
+
+ADMIN ACCESS CODE — THIRD POWERSHELL WINDOW
+Set-Location "$env:USERPROFILE\DayaStore\daya-variety-store"
+npm.cmd run admin:access
+
+Copy this computer's access code into the admin sign-in form. Keep it private.
+The admin must have started once before admin:access can read its code.
+No database username/password is needed for this version.
+
+NORMAL STARTUP ON LATER DAYS
+Do NOT restore the bundled backup again after making new edits: restoring an
+older snapshot replaces the current catalogue (a safety backup is kept).
+Use the same project folder each time.
+
+Window 1:
+Set-Location "$env:USERPROFILE\DayaStore\daya-variety-store"
+npm.cmd run preview
+
+Window 2, only when you want to edit the catalogue:
+Set-Location "$env:USERPROFILE\DayaStore\daya-variety-store"
+npm.cmd run admin
+
+Window 3, if you need to read the access code:
+Set-Location "$env:USERPROFILE\DayaStore\daya-variety-store"
+npm.cmd run admin:access
+
+AFTER SAVING ADMIN CHANGES
+Saved changes do not appear on the customer site until exported and rebuilt.
+Stop preview with Ctrl+C, then run in the project folder:
+
+npm.cmd run catalogue:export
+npm.cmd run build:demo
+npm.cmd run preview
+
+BACK UP YOUR LATER EDITS
+npm.cmd run catalogue:backup
+
+Keep the resulting timestamped ZIP under data/local/backups separately.
+For code editing, npm.cmd run dev runs the development site on 127.0.0.1:3000.
+Use Ctrl+C to stop a server. All servers stay on 127.0.0.1; nothing is deployed.
+Read README.md, WINDOWS_SETUP.md and BACKUP_RESTORE.md for more detail.

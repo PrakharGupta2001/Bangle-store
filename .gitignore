@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+.npm-cache/
+.browser-cache/
+
+# Build & Compilation outputs
+.next/
+out/
+apps/admin/.build/
+apps/storefront/generated/
+packages/catalogue/generated/
+apps/storefront/public/catalogue-images/
+*.tsbuildinfo
+
+# Testing & Coverage
+test-results/
+playwright-report/
+artifacts/
+.test-tmp-*/
+
+# Environment variables & secrets (Never commit secrets)
+.env*
+!.env.example
+
+# Local runtime data, database & auth access codes
+data/local/
+data/runtime/
+*access-code*.txt
+
+# Transfer archives & backups (contains large 200MB+ zip files and private notes)
+transfer/
+*.zip
+*.tar.gz
+backups/
+
+# Logs & Tools
+*.log
+.tools/
+.photo-review/
+photo-previews/
+
+# OS & Editor specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

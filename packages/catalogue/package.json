@@ -1,0 +1,16 @@
+{
+  "name": "@daya/catalogue",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    ".": "./src/index.ts",
+    "./repository": "./src/repository.ts",
+    "./routes": "./src/routes.ts",
+    "./contact": "./src/contact.ts",
+    "./seo": "./src/seo.ts"
+  },
+  "dependencies": {
+    "zod": "4.6.7"
+  }
+}
