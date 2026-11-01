@@ -7,9 +7,6 @@ node_modules/
 .next/
 out/
 apps/admin/.build/
-apps/storefront/generated/
-packages/catalogue/generated/
-apps/storefront/public/catalogue-images/
 *.tsbuildinfo
 
 # Testing & Coverage

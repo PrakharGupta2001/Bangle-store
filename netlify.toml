@@ -1,8 +1,8 @@
 # Netlify Configuration for Daya Variety Store Storefront
 
 [build]
-  # Build static export of the customer storefront
-  command = "npm run build:demo"
+  # Build static export of the customer storefront directly
+  command = "npm run build --workspace @daya/storefront"
   # Directory containing the static exported HTML/CSS/JS
   publish = "apps/storefront/out"
 
@@ -11,7 +11,7 @@
   NODE_VERSION = "24"
 
 [[redirects]]
-  # Redirect root to default English locale if preferred
+  # Redirect root to default English locale
   from = "/"
   to = "/en/"
   status = 302
